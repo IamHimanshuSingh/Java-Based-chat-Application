@@ -1,2 +1,8 @@
 # Java-Based-chat-Application
-Simple Chat Application using Socket Programming in Java and MySQL as database.
+Simple Chat Application in Java.
+Multiple Clients connected to same network can chat at same time.
+
+Concepts implemented:
+1.)Socket Programming in Java.
+2.)Java AWT (Abstract Window Toolkit) is an API we used to develop GUI for our chat application.
+3.)MySQL as a Database.
